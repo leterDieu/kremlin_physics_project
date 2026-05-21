@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "91a013a69dfbfdfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c00531f5ee3ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71adfe869153d88a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkt_term/МКТ.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "МКТ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93489c38b86b9a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1f43262819be17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ee58763b7f2ed5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29f28a01fb53ae93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "345d84c9b56934ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a37a2e88dfc5704",
+    "type": "split",
+    "children": [
+      {
+        "id": "1543e6bbe47a5f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d385c348f20d6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mechanic/Кинематика.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Кинематика"
+            }
+          },
+          {
+            "id": "2e87eb2d34b49f82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mechanic/Кинематика.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Кинематика"
+            }
+          },
+          {
+            "id": "dd7f8d512829de61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f18041c60ebbf84e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cb535335cd08c1e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mechanic/Кинематика.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Кинематика"
+            }
+          },
+          {
+            "id": "a204c39ee71fbdf1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "71adfe869153d88a",
+  "lastOpenFiles": [
+    "mkt_term/Влажность.md",
+    "mkt_term/МКТ и Термодинамика.md",
+    "mkt_term/Термодинамика.md",
+    "mkt_term/МКТ.md",
+    "mechanic/Механика.md",
+    "mechanic/Динамика.md",
+    "electrodynamics/Электродинамика.md",
+    "КФП.md",
+    "mechanic/Кинематика.md",
+    "mechanic/Законы сохранения.md",
+    "mechanic/Колебания и волны.md",
+    "mechanic/Статика.md",
+    "quant/Квантовая физика.md",
+    "nuclear tech/Ядерная физика и астрофизика.md",
+    "quant",
+    "nuclear tech",
+    "electrodynamics",
+    "mkt_term",
+    "Untitled.canvas",
+    "mechanic"
+  ]
+}
