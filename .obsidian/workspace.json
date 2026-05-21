@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57c00531f5ee3ad0",
+        "id": "87c137ae5e6cc207",
         "type": "tabs",
         "children": [
           {
-            "id": "71adfe869153d88a",
+            "id": "e0541a690e7b62c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkt_term/МКТ.md",
+                "file": "mkt_term/Термодинамика.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "МКТ"
+              "title": "Термодинамика"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mechanic/Кинематика.md",
+                "file": "mkt_term/Термодинамика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Кинематика"
+              "title": "Backlinks for Термодинамика"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mechanic/Кинематика.md",
+                "file": "mkt_term/Термодинамика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Кинематика"
+              "title": "Outgoing links from Термодинамика"
             }
           },
           {
@@ -156,31 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mechanic/Кинематика.md",
+                "file": "mkt_term/Термодинамика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кинематика"
-            }
-          },
-          {
-            "id": "a204c39ee71fbdf1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Термодинамика"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,26 +180,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "71adfe869153d88a",
+  "active": "e0541a690e7b62c2",
   "lastOpenFiles": [
     "mkt_term/Влажность.md",
-    "mkt_term/МКТ и Термодинамика.md",
-    "mkt_term/Термодинамика.md",
     "mkt_term/МКТ.md",
+    "mkt_term/Термодинамика.md",
+    "mechanic/Статика.md",
+    "mechanic/Законы сохранения.md",
     "mechanic/Механика.md",
     "mechanic/Динамика.md",
-    "electrodynamics/Электродинамика.md",
-    "КФП.md",
     "mechanic/Кинематика.md",
-    "mechanic/Законы сохранения.md",
+    "optics/Оптика.md",
+    "mechanic/26 задача.md",
+    "mkt_term/МКТ и Термодинамика.md",
+    "quant/Ядерная физика.md",
+    "rules/Основные правила оформления.md",
+    "КФП.md",
     "mechanic/Колебания и волны.md",
-    "mechanic/Статика.md",
+    "mechanic/Блоки.md",
+    "quant/Физика атома.md",
+    "quant/Корпускулярно-волновой дуализм.md",
     "quant/Квантовая физика.md",
+    "electrodynamics/Электростатика, магнетизм и электродинамика.md",
+    "optics",
+    "electrodynamics/Электродинамика и электростатика.md",
+    "electrodynamics/Электродинамика.md",
+    "Ядерная физика и астрофизика.md",
     "nuclear tech/Ядерная физика и астрофизика.md",
+    "rules",
+    "Pasted image 20260521150012.png",
     "quant",
     "nuclear tech",
     "electrodynamics",
