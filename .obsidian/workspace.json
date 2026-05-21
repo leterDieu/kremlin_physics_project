@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d855d6591e40c001",
+        "id": "c41bf1c8666bc97e",
         "type": "tabs",
         "children": [
           {
-            "id": "840cc528c2e86cc6",
+            "id": "14299df548c3931a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mechanic/Кинематика.md",
-                "mode": "source",
-                "source": false
+                "file": "mkt_term/МКТ и Термодинамика.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Кинематика"
+              "title": "МКТ и Термодинамика"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Кинематика"
             }
+          },
+          {
+            "id": "a204c39ee71fbdf1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +190,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "840cc528c2e86cc6",
+  "active": "14299df548c3931a",
   "lastOpenFiles": [
+    "mkt_term/МКТ и Термодинамика.md",
     "КФП.md",
-    "mechanic/Механика.md",
     "mechanic/Кинематика.md",
+    "mechanic/Механика.md",
     "mechanic/Динамика.md",
     "mechanic/Законы сохранения.md",
     "mechanic/Колебания и волны.md",
@@ -200,7 +212,6 @@
     "electrodynamics",
     "mkt_term",
     "Untitled.canvas",
-    "mechanic",
-    "mkt_term/МКТ и Термодинамика.md"
+    "mechanic"
   ]
 }
