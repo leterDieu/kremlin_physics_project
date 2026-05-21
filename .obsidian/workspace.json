@@ -11,10 +11,14 @@
             "id": "71adfe869153d88a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "mkt_term/МКТ.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "МКТ"
             }
           }
         ]
@@ -176,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +197,9 @@
   "active": "71adfe869153d88a",
   "lastOpenFiles": [
     "mkt_term/Влажность.md",
-    "mkt_term/МКТ.md",
     "mkt_term/МКТ и Термодинамика.md",
     "mkt_term/Термодинамика.md",
+    "mkt_term/МКТ.md",
     "mechanic/Механика.md",
     "mechanic/Динамика.md",
     "electrodynamics/Электродинамика.md",
