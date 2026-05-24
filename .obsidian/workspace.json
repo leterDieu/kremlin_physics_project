@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87c137ae5e6cc207",
+        "id": "85cf6bc36cf27e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "e0541a690e7b62c2",
+            "id": "fc422b9b4b6ddd12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkt_term/Термодинамика.md",
+                "file": "mkt_term/МКТ и Термодинамика.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Термодинамика"
+              "title": "МКТ и Термодинамика"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -174,36 +174,75 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "e0541a690e7b62c2",
+  "floating": {
+    "id": "0f8e05c18ad9d0f9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a1f04e1b368bd56b",
+        "type": "window",
+        "children": [
+          {
+            "id": "99f24e63cb983689",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51ea317c91dce886",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mkt_term/МКТ.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "МКТ"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 300,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "fc422b9b4b6ddd12",
   "lastOpenFiles": [
     "mkt_term/Влажность.md",
-    "mkt_term/МКТ.md",
-    "mkt_term/Термодинамика.md",
+    "mechanic/26 задача.md",
+    "mechanic/Динамика.md",
+    "mkt_term/МКТ и Термодинамика.md",
     "mechanic/Статика.md",
     "mechanic/Законы сохранения.md",
-    "mechanic/Механика.md",
-    "mechanic/Динамика.md",
-    "mechanic/Кинематика.md",
-    "optics/Оптика.md",
-    "mechanic/26 задача.md",
-    "mkt_term/МКТ и Термодинамика.md",
-    "quant/Ядерная физика.md",
-    "rules/Основные правила оформления.md",
-    "КФП.md",
     "mechanic/Колебания и волны.md",
     "mechanic/Блоки.md",
-    "quant/Физика атома.md",
+    "mkt_term/Термодинамика.md",
     "quant/Корпускулярно-волновой дуализм.md",
     "quant/Квантовая физика.md",
+    "quant/Физика атома.md",
+    "quant/Ядерная физика.md",
+    "optics/Оптика.md",
+    "mkt_term/МКТ.md",
+    "mechanic/Механика.md",
+    "mechanic/Кинематика.md",
+    "rules/Основные правила оформления.md",
+    "КФП.md",
     "electrodynamics/Электростатика, магнетизм и электродинамика.md",
     "optics",
     "electrodynamics/Электродинамика и электростатика.md",
