@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "57c00531f5ee3ad0",
+        "id": "639d01b96545c469",
         "type": "tabs",
         "children": [
           {
-            "id": "71adfe869153d88a",
+            "id": "09c6917518dc233f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkt_term/МКТ.md",
+                "file": "quant/Физика атома.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Физика атома"
+            }
+          },
+          {
+            "id": "39a76b3f4c1a3f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quant/Корпускулярно-волновой дуализм.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "МКТ"
+              "title": "Корпускулярно-волновой дуализм"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,27 +209,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71adfe869153d88a",
+  "active": "39a76b3f4c1a3f2e",
   "lastOpenFiles": [
-    "mkt_term/Влажность.md",
-    "mkt_term/МКТ и Термодинамика.md",
-    "mkt_term/Термодинамика.md",
-    "mkt_term/МКТ.md",
-    "mechanic/Механика.md",
-    "mechanic/Динамика.md",
-    "electrodynamics/Электродинамика.md",
-    "КФП.md",
+    "quant/Ядерная физика.md",
+    "quant/Физика атома.md",
+    "quant/Квантовая физика.md",
+    "quant/Корпускулярно-волновой дуализм.md",
+    "optics/Оптика.md",
     "mechanic/Кинематика.md",
+    "mechanic/Динамика.md",
     "mechanic/Законы сохранения.md",
     "mechanic/Колебания и волны.md",
+    "mechanic/Механика.md",
     "mechanic/Статика.md",
-    "quant/Квантовая физика.md",
+    "mechanic/Блоки.md",
+    "mechanic/26 задача.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "mkt_term/МКТ.md",
+    "rules/Основные правила оформления.md",
+    "КФП.md",
+    "mkt_term/МКТ и Термодинамика.md",
+    "mkt_term/Влажность.md",
+    "mkt_term/Термодинамика.md",
+    "electrodynamics/Электродинамика.md",
     "nuclear tech/Ядерная физика и астрофизика.md",
     "quant",
     "nuclear tech",
     "electrodynamics",
     "mkt_term",
-    "Untitled.canvas",
     "mechanic"
   ]
 }
