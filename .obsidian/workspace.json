@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mechanic/Кинематика.md",
+                "file": "mkt_term/Термодинамика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Кинематика"
+              "title": "Backlinks for Термодинамика"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mechanic/Кинематика.md",
+                "file": "mkt_term/Термодинамика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Кинематика"
+              "title": "Outgoing links from Термодинамика"
             }
           },
           {
@@ -171,42 +171,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mechanic/Кинематика.md",
+                "file": "mkt_term/Термодинамика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кинематика"
-            }
-          },
-          {
-            "id": "a204c39ee71fbdf1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Термодинамика"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "39a76b3f4c1a3f2e",
@@ -234,6 +223,8 @@
     "mkt_term/Термодинамика.md",
     "electrodynamics/Электродинамика.md",
     "nuclear tech/Ядерная физика и астрофизика.md",
+    "rules",
+    "Pasted image 20260521150012.png",
     "quant",
     "nuclear tech",
     "electrodynamics",
