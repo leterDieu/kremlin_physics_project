@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "639d01b96545c469",
+        "id": "51b9d15c9b06e7e0",
         "type": "tabs",
         "children": [
           {
-            "id": "09c6917518dc233f",
+            "id": "0b28bd2e10e9e2d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/Физика атома.md",
+                "file": "electrodynamics/Электромагнитные колебания.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Физика атома"
-            }
-          },
-          {
-            "id": "39a76b3f4c1a3f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quant/Корпускулярно-волновой дуализм.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Корпускулярно-волновой дуализм"
+              "title": "Электромагнитные колебания"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5110321044922
   },
   "right": {
     "id": "1a37a2e88dfc5704",
@@ -198,29 +183,43 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "39a76b3f4c1a3f2e",
+  "active": "0b28bd2e10e9e2d1",
   "lastOpenFiles": [
-    "quant/Ядерная физика.md",
-    "quant/Физика атома.md",
+    "electrodynamics/Постоянный ток.md",
+    "electrodynamics/Электромагнитные колебания.md",
+    "electrodynamics/Электрическое поле.md",
+    "electrodynamics/Магнетизм и электромагнитная индукция.md",
+    "electrodynamics/Электростатика, магнетизм и электродинамика.md",
+    "pngs/tok v diode.png",
+    "pngs/diod.png",
+    "pngs/istochnik.png",
+    "Pasted image 20260528174940.png",
+    "pngs/potenc_toch.png",
+    "pngs/potenc_plosk.png",
+    "Pasted image 20260528161449.png",
+    "optics/Оптика.md",
     "quant/Квантовая физика.md",
     "quant/Корпускулярно-волновой дуализм.md",
-    "optics/Оптика.md",
-    "mechanic/Кинематика.md",
-    "mechanic/Динамика.md",
+    "quant/Ядерная физика.md",
+    "pngs/lense.png",
+    "КФП.md",
+    "quant/Физика атома.md",
+    "mkt_term/Влажность.md",
+    "mkt_term/МКТ.md",
+    "mkt_term/Термодинамика.md",
+    "rules/Основные правила оформления.md",
+    "pngs",
+    "Untitled.canvas",
     "mechanic/Законы сохранения.md",
     "mechanic/Колебания и волны.md",
-    "mechanic/Механика.md",
-    "mechanic/Статика.md",
     "mechanic/Блоки.md",
     "mechanic/26 задача.md",
+    "mechanic/Кинематика.md",
+    "mechanic/Динамика.md",
+    "mechanic/Механика.md",
+    "mechanic/Статика.md",
     "Untitled.base",
-    "Untitled.canvas",
-    "mkt_term/МКТ.md",
-    "rules/Основные правила оформления.md",
-    "КФП.md",
     "mkt_term/МКТ и Термодинамика.md",
-    "mkt_term/Влажность.md",
-    "mkt_term/Термодинамика.md",
     "electrodynamics/Электродинамика.md",
     "nuclear tech/Ядерная физика и астрофизика.md",
     "rules",
